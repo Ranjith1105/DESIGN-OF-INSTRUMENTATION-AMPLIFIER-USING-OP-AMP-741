@@ -54,6 +54,6 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 
 # RESULT
 
-Thus the Inverting, Non-Inverting and differential amplifier are designed and their performance was successfully tested using  OP - amp $\mu$A741
+Thus the Inverting, Non-Inverting and differential amplifier are designed and their performance was successfully tested using  OP - amp $\mu$ A741
 
 
