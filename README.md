@@ -30,7 +30,6 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 
 <img width="658" height="213" alt="image" src="https://github.com/user-attachments/assets/52d8b211-2fe2-491c-b6b5-7381f6649628" />
 
-# DESIGN:
 
 # TABULATION:
 
@@ -40,11 +39,11 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 ![WhatsApp Image 2025-11-09 at 11 00 38_a2934041](https://github.com/user-attachments/assets/cf28b74b-630d-4843-8bec-81018d0132c6)
 
 
-# GRAPH
+# GRAPH:
 ![WhatsApp Image 2025-11-09 at 11 01 16_804b24f1](https://github.com/user-attachments/assets/7ebe2a2d-9fbf-42f5-a6c2-7efc78b21689)
 
 
-# RESULT
+# RESULT:
 
 Thus an Instrumentation Amplifier was constructed and  tested using  OP - amp $\mu$ A741
 
