@@ -30,6 +30,9 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 
 <img width="658" height="213" alt="image" src="https://github.com/user-attachments/assets/52d8b211-2fe2-491c-b6b5-7381f6649628" />
 
+# DESIGN:
+![WhatsApp Image 2025-11-09 at 10 53 55_3b252761](https://github.com/user-attachments/assets/39447cf0-088a-4775-8cd5-47ac705b29bb)
+
 # TABULATION:
 
 # INVERTING AMPLIFIER:
