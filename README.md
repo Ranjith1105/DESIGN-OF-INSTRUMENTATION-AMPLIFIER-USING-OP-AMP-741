@@ -31,32 +31,21 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 <img width="658" height="213" alt="image" src="https://github.com/user-attachments/assets/52d8b211-2fe2-491c-b6b5-7381f6649628" />
 
 # DESIGN:
-![WhatsApp Image 2025-11-09 at 10 53 55_3b252761](https://github.com/user-attachments/assets/39447cf0-088a-4775-8cd5-47ac705b29bb)
 
 # TABULATION:
 
-# INVERTING AMPLIFIER:
-![WhatsApp Image 2025-11-09 at 10 47 33_7bef7be9](https://github.com/user-attachments/assets/d57186cb-0476-4fef-a729-9c6f3f64d829)
-
-# NON-INVERTING AMPLIFIER:
-![WhatsApp Image 2025-11-09 at 10 48 36_2adc5a01](https://github.com/user-attachments/assets/3edeb226-3cb6-499c-b8db-60fff6b202cd)
-
-# DIFFERENTIAL AMPLIFIER:
-![WhatsApp Image 2025-11-09 at 10 49 12_00397f04](https://github.com/user-attachments/assets/672cad18-731e-4f1b-89ff-8b9d5e48f363)
-
+![WhatsApp Image 2025-11-09 at 10 59 09_d8ccc2b9](https://github.com/user-attachments/assets/f002058d-2d8f-41f5-8be8-e969086d47d1)
 
 # THEORETICAL CALCULATION:
-![WhatsApp Image 2025-11-09 at 10 55 03_837c08a0](https://github.com/user-attachments/assets/63b99619-acce-4e4d-ba75-d0be4a650368)
+![WhatsApp Image 2025-11-09 at 11 00 38_a2934041](https://github.com/user-attachments/assets/cf28b74b-630d-4843-8bec-81018d0132c6)
 
-![WhatsApp Image 2025-11-09 at 10 55 49_773eedd5](https://github.com/user-attachments/assets/37ac9d78-cfed-4184-8e4a-7d9451ecca97)
 
 # GRAPH
-![WhatsApp Image 2025-11-09 at 10 52 26_57ba26ff](https://github.com/user-attachments/assets/ee641e83-29c1-435b-b1f0-f039b59979ab)
+![WhatsApp Image 2025-11-09 at 11 01 16_804b24f1](https://github.com/user-attachments/assets/7ebe2a2d-9fbf-42f5-a6c2-7efc78b21689)
 
-![WhatsApp Image 2025-11-09 at 10 53 05_b17d09db](https://github.com/user-attachments/assets/5634fcfc-d521-4fd1-8690-8b87946e9bd3)
 
 # RESULT
 
-Thus the Inverting, Non-Inverting and differential amplifier are designed and their performance was successfully tested using  OP - amp $\mu$ A741
+Thus an Instrumentation Amplifier was constructed and  tested using  OP - amp $\mu$ A741
 
 
